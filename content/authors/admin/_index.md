@@ -26,16 +26,16 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Hate Crime Legislation
   - Computational Linguistics
-  - Information Retrieval
+  - Gender
 
 # Education to show in About widget
 education:
-  courses:
-    - course: 
-      institution: 
-      year: 
+  courses: 
+    - course: PhD in Political Science
+      institution: McMaster University
+      year: 2019 - Present
     - course: MSc in International Relations
       institution: University of Glasgow
       year: 2015
@@ -67,20 +67,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 20
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: More Cats
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 40
+        icon: cat
+        icon_pack: fas
+      - name: All the Cats
+        description: ''
+        percent: 100
+        icon: Cats
         icon_pack: fas
 
 # Social/Academic Networking
