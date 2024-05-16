@@ -26,5 +26,4 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_code: 'https://www.cambridge.org/core/journals/politics-and-gender/article/evidence-of-exacerbated-gender-inequality-in-child-care-obligations-in-canada-and-australia-during-the-covid19-pandemic/4E849E33B2F20D7C44A08B9FEA33CC2B'
+ url: "https://www.cambridge.org/core/journals/politics-and-gender/article/evidence-of-exacerbated-gender-inequality-in-child-care-obligations-in-canada-and-australia-during-the-covid19-pandemic/4E849E33B2F20D7C44A08B9FEA33CC2B"
